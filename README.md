@@ -1,1 +1,2 @@
-# Repositório do Desafio do Projeto da DIO - Bootcamp Spread
+# Desafio do Projeto da DIO - Bootcamp Spread
+Repositório para o desafio de projetos.
